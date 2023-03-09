@@ -19,3 +19,9 @@ body {
     align-items: center;
     justify-content: center;
 }
+
+.Button:hover{
+    background-color: red; 
+    color: black;
+     border: 2px solid blue;
+}
