@@ -1,0 +1,21 @@
+body {
+    background-color: antiquewhite;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0px;
+}
+
+.ingredients {
+    background-color: rgb(202, 186, 218);
+    padding: 20px;
+}
+
+.instructions {
+    background-color: rgb(238, 206, 165);
+    padding: 20px;
+}
+
+.footer {
+    padding: 20px;
+    align-items: center;
+    justify-content: center;
+}
