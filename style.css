@@ -21,19 +21,22 @@ body {
 }
 
 .Button{
-    display:flex;
-    border-radius: 120px;
-    /* width: 50px; */
+    display:inline;
+    background-color: darkgreen; 
+    border-radius: 20px;
+    padding:15px;
+    margin:12px;
     text-align: center;
     font-size: 30px;
-    border: 5px solid blue;
+    border: 10px;
     
-
 }
 .Button:hover{
-    background-color: rgb(236, 236, 106); 
-    color: black;
-    /* border: 90px solid blue; */
+    background-color: white; 
+    border:3px solid rgb(238, 206, 165);
+    cursor: pointer;
 
-    
+}
+.Button :link {
+    text-decoration: none;
 }
