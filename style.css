@@ -20,8 +20,20 @@ body {
     justify-content: center;
 }
 
+.Button{
+    display:flex;
+    border-radius: 120px;
+    /* width: 50px; */
+    text-align: center;
+    font-size: 30px;
+    border: 5px solid blue;
+    
+
+}
 .Button:hover{
     background-color: red; 
     color: black;
-     border: 2px solid blue;
+    /* border: 90px solid blue; */
+
+    
 }
